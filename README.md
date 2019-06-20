@@ -1,18 +1,18 @@
 # AION Launcher
 
-# How to use ?
+How to use ?
 
-# Run the program (x64 or x86 depending on your system)
+Run the program (x64 or x86 depending on your system)
 
-# Don't press 'OK' on the message, instead run the game once.
+Don't press 'OK' on the message, instead run the game once.
 
-# When you see the login screen, Press 'OK'
+When you see the login screen, Press 'OK'
 
-# You're good to go, select startup options ( you will probably need to change steam or not only from those options the rest is the same )
+You're good to go, select startup options ( you will probably need to change steam or not only from those options the rest is the same )
 
-# When your done press Launch AION
+When your done press Launch AION
 
-# Cheers
+Cheers
 
 
 # Scans 
