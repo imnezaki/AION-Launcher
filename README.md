@@ -1,1 +1,1 @@
-# AION-Launcher
+# AION Launcher
